@@ -1,0 +1,9 @@
+personal-career-navigator/
+├── app.py                 # Streamlit frontend
+├── agent.py               # Core agent logic
+├── utils.py               # Helpers (GitHub API, skill extraction)
+├── requirements.txt
+├── .env.example           # Template for API keys
+├── README.md              # Project description and setup
+└── data/                  # Optional job descriptions dataset
+    └── sample_jobs.json
